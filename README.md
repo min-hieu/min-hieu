@@ -6,6 +6,5 @@
 
 -->
 - 👁 I’m currently working on Computer Vision and AI
-- 🧬 I’m currently learning protein folding
 - 👯 I’m looking to collaborate on any Machine Learning/Computer Graphics
 - 📫 How to reach me: hieu1052k3@gmail.com
