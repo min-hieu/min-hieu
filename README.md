@@ -5,6 +5,5 @@
 
 
 -->
-- 👁 I’m currently working on Computer Vision and AI
-- 👯 I’m looking to collaborate on any Machine Learning/Computer Graphics
+- 👁 I’m currently studying at KSA
 - 📫 How to reach me: hieu1052k3@gmail.com
