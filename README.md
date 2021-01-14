@@ -5,5 +5,5 @@
 
 
 -->
-- 👁 I’m currently studying at KSA
+- 👁 Student at KAIST
 - 📫 How to reach me: hieu1052k3@gmail.com
