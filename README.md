@@ -7,6 +7,10 @@
     <img width="33%" src="https://raw.githubusercontent.com/min-hieu/min-hieu/main/Untitled-1.png"> 
 </p>
 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 -->
 - 🎓 Studying at KAIST
 - 📫 E: hieu1052k3@gmail.com
