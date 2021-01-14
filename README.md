@@ -1,5 +1,6 @@
 ### Greetings friends of the Internet!
-<p align="center">
+<p align="center"> Greetings friends of the Internet! </p>
+<p align="center"> 
 <img align="center" width="15%" src="https://github.com/min-hieu/min-hieu/blob/main/images/kaistmoji.png"> 
 </p>
 
