@@ -1,12 +1,11 @@
-### Greetings friends of the Internet!
-<p align="center"> Greetings friends of the Internet! </p>
+<p align="center"> <img align="center" width="30%" src="https://github.com/min-hieu/min-hieu/blob/main/images/hellotext.gif">  </p>
 <p align="center"> 
 <img align="center" width="15%" src="https://github.com/min-hieu/min-hieu/blob/main/images/kaistmoji.png"> 
 </p>
 
 ### About me:
 - 🎓 Studying at KAIST
-- 📫 E: hieu1052k3@gmail.com
+- 📫 Email me @ [hieu1052k3@gmail.com](hieu1052k3@gmail.com)
 
 ### Languages
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/min-hieu?tab=repositories&q=&type=&language=python)
