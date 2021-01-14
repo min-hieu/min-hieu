@@ -5,5 +5,5 @@
 
 
 -->
-- 👁 Student at KAIST
-- 📫 How to reach me: hieu1052k3@gmail.com
+- 🎓 Studying at KAIST
+- 📫 E: hieu1052k3@gmail.com
